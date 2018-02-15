@@ -1,0 +1,24 @@
+{
+  "name": "talksport",
+  "version": "1.0.0",
+  "description": "Experiment for talk sport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgrubb/talksport.git"
+  },
+  "author": "James Grubb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgrubb/talksport/issues"
+  },
+  "homepage": "https://github.com/jamesgrubb/talksport#readme",
+  "dependencies": {
+    "matter": "^0.2.0",
+    "p5": "^0.6.0",
+    "tachyons": "^4.9.1"
+  }
+}
